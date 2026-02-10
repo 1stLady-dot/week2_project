@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+This project displays my portfolio which is my second project in mobile development.
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
